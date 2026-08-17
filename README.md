@@ -3,7 +3,7 @@
 A quantitative risk management project analyzing how portfolio risk, correlation
 structure, and hedging costs changed before, during, and after the 2007–2009
 global financial crisis. Built using real daily sector-level equity return data
-(2000–2024, 11 GICS sectors), applying Modern Portfolio Theory, Value at Risk /
+(2000–2020, 11 GICS sectors), applying Modern Portfolio Theory, Value at Risk /
 Conditional Value at Risk, Black-Scholes hedging, fat-tailed distribution
 estimation, structural break testing, and VaR backtesting.
 
